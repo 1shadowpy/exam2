@@ -1,5 +1,5 @@
-# oilam = {'otam':'xojiakbar','onam':'dildora','ukam':'honazimbek'}
-# print(oilam.keys())
+# oilam = {'otam':'xojiakbar','onam':'dildora','ukam':'honazimbek'}    
+# print(oilam.keys())                                             
 # print(oilam.values())
 
 # oilam = {'otam':'xojiakbar','onam':'dildora','ukam':'honazimbek'}
